@@ -3,7 +3,7 @@ permalink: /
 layout: default
 ---
 
-## The Seven Nines of Insignificancy
+## The Seven Nines of Insignificance
 
 Based on two Hacker News comments:
 
