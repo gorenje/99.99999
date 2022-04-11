@@ -13,7 +13,8 @@
 }
 
 .quattro {
-    font: 16px/1.5 "iA Writer Quattro", monospace;
+    font: 12pt/1.2 "Poppins", sans-serif;
+    color: #2a2222;
 }
 
 .regular {
@@ -39,7 +40,13 @@
 }
 
 h2 {
-    border-bottom: 1px solid black;
+    /* border-bottom: 1px solid black; */
+    font: 14pt/1.2 "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+body {
+    background-color: #bdb9b9;
 }
 
 a {
@@ -48,7 +55,7 @@ a {
 }
 
 a:visited {
-    text-decoration-color: white !important;
+    text-decoration-color: black !important;
 }
 
 code {
