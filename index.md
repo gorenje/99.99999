@@ -3,7 +3,9 @@ permalink: /
 layout: default
 ---
 
-## The Seven Nines of Insignificance
+<div class="topsection">
+<h2>The Seven Nines of Insignificance</h2>
+</div>
 
 Based on two Hacker News comments:
 
