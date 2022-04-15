@@ -7,17 +7,23 @@ layout: default
 <h2>The Seven Nines of Insignificance</h2>
 </div>
 
-Based on two Hacker News comments:
+Global perspective:
 
-*It helps to bear in mind that about 99.9999% of the worlds population have no awareness of your existence.* - [comment 1](https://news.ycombinator.com/item?id=30231627)
+*It helps to bear in mind that about 99.9999% of the worlds population have no awareness of your existence.* - [Digit-Al on Hacker News (HN)](https://news.ycombinator.com/item?id=30231627)
 
-*We are insignificant and meaningless. Just look at that data. We live on a planet that's billions of years old in a solar system that's probably even older. Currently each one of us is but one of almost 8 billion others currently alive right now. One day you will die with millions of others. Not long after that anyone that has a memory of you will die. You will be completely erased.* - [comment 2](https://news.ycombinator.com/item?id=30233933)
+Universal perspective:
 
-Both of these comments were in response to this [question](https://news.ycombinator.com/item?id=30230620).
+*We are insignificant and meaningless. Just look at that data. We live on a planet that's billions of years old in a solar system that's probably even older. Currently each one of us is but one of almost 8 billion others currently alive right now. One day you will die with millions of others. Not long after that anyone that has a memory of you will die. You will be completely erased.* - [skinney6 on HN](https://news.ycombinator.com/item?id=30233933)
 
-**99.9999% of the worlds population aren't aware of your existence.** This especially hard if you round it up to the next whole number: 100%.
+Both of these comments were in response to *[Ask HN: How do you deal with getting old and feeling lost?](https://news.ycombinator.com/item?id=30230620)*.
 
-What do the numbers say? How many followers do we need to move the gauge? If we take a total population of 8 billion people then:
+Ninety-Nine-Point-Nine-Nine-Nine-Nine percent of the worlds population aren't aware of your existence. Rounding this up to the next whole number: one hundred percent.
+
+It's hard not to feel lost when faced with the cold facts. Unsurprisingly a similar question [*Tell HN: Turned 44 today and I'm lost*](https://news.ycombinator.com/item?id=31028795) appeared some time later on HN.
+
+## Lost in a World of Numbers
+
+What do the numbers say? How many followers does someone need to move the gauge? If we take a total population of 8 billion people then:
 
 - 99% represents 80 million, meaning: if you have under 80 million followers, then only 99% of the worlds population *would not* be aware of your existence.
 - 99.9% represents 8 million followers
@@ -26,7 +32,7 @@ What do the numbers say? How many followers do we need to move the gauge? If we 
 - 99.9999% represents 8 thousand followers
 - 99.99999% represents 800 followers
 
-Remember we are talking about people who know of your existence not people that know each other, hence followers is a good indicator of people who are potentially aware of your existence but not you of theirs. (Of course, here the question can be raised whether you are aware of a followers existence if they start to follow you? Since generally followers are just numbers, I would say not. And the act of following is an active action: you click a follow button thus becoming aware of the existence of the person you began to follow.)
+Remember we are talking about people who know of your existence not people that know each other, hence followers is a good indicator of people who are potentially aware of your existence but you not of theirs. (Tangent: Of course, here the question can be raised whether you are aware of a followers existence if they start to follow you? I would say not since *being* followed is not an active action by the person being followed. And the act of following is an active action: someone clicked the follow button thus becoming aware of the existence of the person they began to follow.)
 
 So just to crack the [five nines](https://en.wikipedia.org/wiki/Five_nines), you will need at least 80 thousand followers. I would say the vast majority of humankind are somewhere between six nines and seven nines. Hence seven nines of insignificancy!
 
@@ -38,35 +44,33 @@ On the other hand, the *least known* person is far simpler: you and me. Or rathe
 
 ## Life, the Universe and Everything
 
-But we call all take solace in the fact that there estimated up to [400 billion](https://skiesandscopes.com/how-many-planets/) planets in the Milky Way. Let alone the universe.
+But we can all take solace in the fact that there estimated up to [400 billion](https://skiesandscopes.com/how-many-planets/) planets in the Milky Way. Let alone the universe.
 
-And at the moment, the Earth has zero *known* followers. I guess we could start talking about *dark* followers - in the sense of dark matter that does not interact with anything and can't be measured but apparently exists. But dark followers *really* don't count.
+And at the moment, the Earth has zero *known* followers. I guess we could start talking about *dark* followers - in the sense of dark matter that does not interact with anything and can't be measured but apparently exists. But dark followers *really* don't count i.e. if the planet does not it's being followed then it also doesn't make a difference.
 
 So that means that our planet is even more unknown than anyone living on the planet. And take comfort, that is not to say that there isn't someone somewhere in the Milky Way that is even more least known than you and me - we just don't know of them.
 
-Which is also an interesting thought: measuring insignificance causes it to disappear since we become aware of people thus reducing their insignificance!
-
-So besides realising that the Earth is far more insignificant than ourselves, there are a number of other coping mechanisms. I won't go into all of them - basically everything we do between birth and death is a way of coping with our insignificance!
+So realising that the Earth is far more insignificant than ourselves might provide some comfort for our own insignificance.
 
 ## Solace in the concept of God
 
-Please note, I am discussing the *concept* of "God", I am not discussing a *particular* or *specific* incarnation of that concept, that is, believe in your God and be open to discussing the *concept* of "God".
+Please note, I am discussing the *concept* of "God", I am not discussing a *particular* or *specific* incarnation of that concept, that is, believe in your God and be open to discussion on the *concept* of "God". To make this distinction clearer I'll use *Great Maker in the Sky* - GMitS instead of "God".
 
-Let us assume there is an omnipresent God, who is really interested in what we do and who we are. This God has our best intentions at heart and offers us a prize for getting through life. That prize is to live in everlasting peace, love and harmony in a place called "heaven". Of course this being a prize, it's only awarded to the best amongst us. So only the "good" (judged by a specific set of rules - lets call them "the ten commandments") make it to heaven. What happens to the "bad" ones we don't really want to know - it's really bad. (This is purely psychological: everyone has their own personal hell so it's not a good idea to describe a general hell since for some that would be more like heaven.)
+Let us assume there is an omnipresent GMitS, who is really interested in what we do and who we are. This GMitS has our best intentions at heart and offers us a prize for getting through life. That prize is to live in everlasting love, peace and harmony in a place called "heaven". Of course this being a prize, it's only awarded to the best amongst us. So only the "good" (judged by a specific set of rules - lets call them "the ten commandments") make it to heaven. What happens to the "bad" ones we don't really want to know - it's really bad. (Psychologically speaking it is better for everyone to have their own personal hell. A general hell might be appealing and/or pleasant for some and that would make hell to heaven for those so inclined.)
 
-Now imagine being in charge of an anthill. This comparison is based on the fact that the ants have about as much understanding of us as we do of our God. We assume that ants have also developed the concept of "God" and we have taken on the role of God.
+Now imagine being in charge of an anthill. This comparison is based on the fact that the ants have about as much understanding of us as we do of our GMitS. We assume that ants have also developed the concept of "GMitS" and we have taken on the role of GMitS.
 
-Every time an ant dies, it becomes our job to decide whether this was a "good" ant or a "bad" ant. Another job that we have to do is listen to anything these ants say to us (lets call this communication "prayers"). We need to store all their communication with us in a big book so that we can better judge whether good or bad ant. On top of this, we also have to read their minds - even bad thoughts count against an ant!
+Every time an ant dies, it becomes our job to decide whether this was a "good" ant or a "bad" ant. Another job that we have to do is listen to anything these ants say to us - lets call this communication "prayers". We need to store all their communication with us in a big book so that we can better judge whether this was a good or bad ant. On top of this, we also have to read their minds - even bad thoughts count against an ant!
 
 In addition to that, we have to keep an eye on their behaviour - are they behaving well to their fellow ants?
 
 That's a lot of spying and eavesdropping - it would nice we could digitalise all this ...
 
-And now imagine the ant. Do you think the ant understands that it's being punished by God when we step on it? I doubt that very much. And are we punishing the ant or did we simply not notice the ant? I really have a hard time trying to figure out why I would want to punish an ant. (Ok, this is assuming the ant is in its natural habitat and not in my kitchen.)
+And now imagine the ant. Do you think the ant understands that it's being punished by GMitS if we happen to step on it? I doubt that very much. And are we punishing the ant or did we simply not notice the ant? I really have a hard time trying to figure out why I would want to punish an ant. (Ok, this is assuming the ant is in its natural habitat and not in my kitchen.)
 
-So I'd rather doubt that there is an omnipresent "God" that somehow has our best intentions at heart. Or if there is, then similar to an ant, this "God" does not directly influence my day-to-day life and when he does (e.g. steps on me), I have no comprehension that it was "God".
+So I'd rather doubt that there is an omnipresent "GMitS" that somehow has our best intentions at heart. Or if there is, then similar to an ant, this "GMitS" does not directly influence my day-to-day life and when he does, e.g. steps on me, I have no comprehension that it was "GMitS".
 
-So, personally, the concept of "God" does not really help me to deal with my insignificance.
+So, personally, the concept of "GMitS" does not really help me to deal with my insignificance. But it does do something for my level of humour.
 
 ## Butterflies and rice sacks - Causality to the rescue
 
@@ -76,13 +80,21 @@ Do the [wings of butterflies](https://en.wikipedia.org/wiki/Butterfly_effect) ca
 
 Causality is the concept that small actions can generate large effects. In this sense, how can we *possibly* be insignificant? Does not everyone cause things to happen and thus triggering larger effects?
 
-Yes we do. Each of us interact with the outside world and cause things to happen. However, these are very indirect effects that we aren't directly associate with ourselves. Sure we could say that my favourite team won because *I* was there to cheer them on - without me, they would never have won.
+Yes we do. Each of us interact with the outside world and cause things to happen. However, these are very many indirect events that we aren't directly associate with ourselves. Sure we could say that my favourite sporting team won because *I* was there to cheer them on - without me, they would never have won.
 
-Or my vote caused the election to swing one way or another. In fact that's why elections are anonymous - to give everyone that feeling that they made a difference. The truth is rather different. Very few seats are swing seats and very few people live there. So, for most of us, our vote is simply one of many.
+Or my vote caused the election to swing one way or another. In fact that's why elections are anonymous - to give everyone that feeling that they made a difference. The truth is rather different. Very few seats are swing seats and very few people live there. So, for most of us, our vote is simply one of many votes.
 
 Or a more macabre note, firing squads are such that one member of the squad is given a blank but no one knows who. In the end, each member of firing squad can claim that they had the blank. How the prisoner died remains a mystery.
 
-Causality can provide a certain amount of significance to our insignificance however it is unclear whether my actions where in fact the cause of the effect. It borders on belief and not on fact whether I had influence on a specific event.
+Causality can provide a certain amount of significance to our insignificance however it is unclear whether my actions were in fact the cause of the effect. Causality becomes a type of belief and not a fact: our influence on a specific event is very minor.
+
+## Children don't provide Purpose/Goal
+
+Some replies to the HN questions suggested having a family as a way out of being lost. Yes children *could* reduce you chances of being insignificant assuming being the parent of a significant persons makes them also significant. 
+
+Our parents probably thought the same and look what happened.
+
+Children should not be purpose or goal for someone else life. Just imagine when that child asks its parent "Why did you have me?" and the answer would be "Because I was seeking a purpose for my life". I'll leave the rest up to the imagine of the reader.
 
 ## This is really negative and ruined my day
 
@@ -90,6 +102,14 @@ I'm sorry for that. It wasn't (I promise) my intention. However ...
 
 If you believe the world is a sphere going around the sun, then, unfortunately, you should also believe in the insignificancy of your existence. Why? Because both ideas are grounded in science. All I am presenting here are statistics. I would also prefer the world to have an edge but no, it hasn't and yes, in the big scheme of things, I'm insignificant.
 
-But before we all start worrying about our insignificancy, perhaps we should be inspired by the fact that we are all, in terms of the universe, really really really insignificant and all equally so. And perhaps we should see this commonality as something unifying.
+But before we all start worrying about our planetary insignificance, perhaps we should be inspired by the fact that we are all, in terms of the universe, really *really* **really** insignificant and basically equally so. Perhaps we should see this commonality as a unifying.
 
-So there is no need to become a megalomaniac. Reduce insignificance by making one of your fellow insignificant co-inhabitants significant for you.
+So reduce insignificance by making one of your fellow insignificant co-inhabitants significant for you.
+
+## What else can I do?
+
+If you read the [comments](https://news.ycombinator.com/item?id=30230620) you will realise that there are very many approaches to getting over the feeling of being lost. Here's the central point to finding the path out of the labyrinth: you need to find an approach that works for you. 
+
+Don't believe the hype and assume that if Joe Blow says he does sport and that help him - it might not help you. Everyone is different and should take their own approach, the approach that fits to them.
+
+For me it was writing this article, I hope for you it might be reading this.
