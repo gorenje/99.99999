@@ -100,7 +100,7 @@ Our parents probably thought the same and look what happened.
 
 Children should not be purpose or goal for someone elses life. Just imagine when that child asks its parent "Why did you have me?" and the answer would be "Because I was seeking a purpose for *my* life". I'll leave the rest up to the imagine of the reader.
 
-Of course having children out of a desire to have a child because you love someone and both which to be parents is something completely different. The child becomes the the *result* of an act of love. The child isn't *responsible* for filling the missing gaps in someone elses life.
+Of course having children out of a desire to have a child because you love someone and both wish to be parents is something completely different. The child becomes the the *result* of an act of love. The child isn't *responsible* for filling the missing gaps in someone elses life.
 
 ## This is really negative and ruined my day
 
